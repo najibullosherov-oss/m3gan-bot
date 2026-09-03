@@ -6,7 +6,7 @@ import os
 from http.server import HTTPServer, BaseHTTPRequestHandler
 
 TELEGRAM_TOKEN = "8843212311:AAFirPXyarzhIduzOW65Uug5SKnm6lZ-ja8"
-GEMINI_API_KEY = "AQ.Ab8RN6LVw9gscWP-TifbgK4voD..." # Вставь сюда полный ключ со скриншота
+GEMINI_API_KEY = "AQ.Ab8RN6LVw9gscWP-TifbgK4voDkyP2ilsLkoLmxbHRnOPSvHjA" # Вставь сюда полный ключ со скриншота
 
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 M3GAN_CHAT_ID = None
